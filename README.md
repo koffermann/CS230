@@ -26,7 +26,7 @@
 <br>
 <br><b>How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?</b>
 <br>
-<br>
+<br> I approached designing the software by using the final product as a guide. The mission is always to get the program to that point even if it means going back into a code that works technically but is still subpar on the surface. Techniques that I would use in the future to analyze and design a similar software application is to create documentation that keeps track of constraints, architecture, and other important aspects of building a program beyond simply writing code.
 
 
 
